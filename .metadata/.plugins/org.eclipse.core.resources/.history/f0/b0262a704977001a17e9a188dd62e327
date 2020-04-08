@@ -1,0 +1,7 @@
+server:
+  port: 8888
+spring:
+  cloud:
+    server:
+      git:
+        uri: https://github.com/jfjara/eureka-test

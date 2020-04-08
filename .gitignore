@@ -1,0 +1,14 @@
+./EurekaServerTest/settings/
+./EurekaServerTest/project
+./EurekaServerTest/classpath
+./EurekaServerTest/target/
+
+./SpringCloudConfig/settings/
+./SpringCloudConfig/project
+./SpringCloudConfig/classpath
+./SpringCloudConfig/target/
+
+./ZuulProxy/settings/
+./ZuulProxy/project
+./ZuulProxy/classpath
+./ZuulProxy/target/
